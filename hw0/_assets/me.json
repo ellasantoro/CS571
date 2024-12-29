@@ -1,0 +1,14 @@
+{
+"name":{
+    "first:":"Ella", 
+    "last:":"Santoro"
+},
+
+"fromWisconsin":false,
+
+"numCredits": 16,
+
+"major": "Computer Science",
+
+"interests": ["painting", "gaming", "coffee", "cats"]
+}
